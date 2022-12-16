@@ -1,5 +1,5 @@
 ### INTRODUCTION
-A python script to find out the public IP address of any website.
+A python script to find out our public IP address.
 
 ### PRE_REQUISITS
 MAke sure that python3 is installed.
