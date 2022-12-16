@@ -1,16 +1,29 @@
-# public_ip
+### INTRODUCTION
+A python script to find out the public IP address of any website.
 
-A python script to find out the public IP address
+### PRE_REQUISITS
+MAke sure that python3 is installed.
 
-Run: python3 public_ip.py
+Clone the repository
+```s
+git clone https://github.com/sreehariskumar/public_ip.git
+```
+Navigate to the directory
+```s
+cd public_ip
+```
 
-Few websites that performs the same function:
+Run the following command: 
+```s
+python3 public_ip.py
+```
 
-https://ipinfo.io/
+### Few websites that performs the same function:
+### You can cross verify the results.
 
-https://www.whatismypublicip.com/
+>https://ipinfo.io/
+>https://www.whatismypublicip.com/
+>https://www.ip-address.org/
 
-https://www.ip-address.org/
 
-
-Thank you
+### Thank you
