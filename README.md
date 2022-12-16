@@ -19,11 +19,14 @@ python3 public_ip.py
 ```
 
 ### Few websites that performs the same function:
-### You can cross verify the results.
 
->https://ipinfo.io/
->https://www.whatismypublicip.com/
->https://www.ip-address.org/
+https://ipinfo.io/
 
+https://www.whatismypublicip.com/
+
+https://www.ip-address.org/
+
+
+_You can cross verify the results_
 
 ### Thank you
